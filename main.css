@@ -1,0 +1,54 @@
+
+.footer 
+{
+		
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	
+	background-color: #565C60  ;
+	color: white;
+	text-align:left;
+  }
+
+.location_image
+{
+	position:absolute;
+	top:9%;
+	right:30%;
+}
+.location_image img
+{
+	height:50px;
+	width:50px;
+}
+.location_text
+{
+	color:black;
+	text-decoration:bold;
+	font-size: 150%;
+	position:absolute;
+	top:8%;
+	right:18%;
+}
+.call_logo
+{
+	position:absolute;
+	top:9%;
+	right:50%;
+}
+.call_logo img
+{
+	height:50px;
+	width:50px;
+}
+.call_text
+{
+	color:black;
+	text-decoration:bold;
+	font-size: 150%;
+	position:absolute;
+	top:7%;
+	right:38%;
+}
+	
